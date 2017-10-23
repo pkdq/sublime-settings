@@ -1,0 +1,28 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"A File Icon",
+		"Babel",
+		"Bootstrap 3 Snippets",
+		"EJS 2",
+		"Emmet",
+		"Git",
+		"GitGutter",
+		"JavaScript Completions",
+		"Laravel Blade Highlighter",
+		"Material Theme",
+		"Package Control",
+		"Sass",
+		"SideBarEnhancements",
+		"SublimeLinter-jshint",
+		"SublimeREPL",
+		"Terminal",
+		"Theme - Soda",
+		"TypeScript",
+		"Vue Syntax Highlight"
+	]
+}
